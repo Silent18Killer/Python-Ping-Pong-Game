@@ -1,7 +1,7 @@
 # Python-Ping-Pong-Game
 
 <p align="center">
-  <img src="https://github.com/Silent18Killer/Python-Calculator-App/assets/139036518/1605f091-c85d-474d-ac89-42747d8589f5"/>
+  <img src="https://github.com/Silent18Killer/Python-Ping-Pong-Game/assets/139036518/ca3da381-e591-4c70-a2cd-234029155ed7"/>
 </p>
 <p align="center">This is Project Demo</p>
 
